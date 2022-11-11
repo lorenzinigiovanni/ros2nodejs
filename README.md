@@ -12,7 +12,7 @@ Before installing, download and install Node.js.
 Installation is done using the npm install command:
 
 ```sh
-$ npm install simple-pdf-generator
+$ npm install ros2nodejs
 ```
 
 ## Features
@@ -178,7 +178,7 @@ $ npm init
 - Install the `ros2nodejs` package:
 
 ```sh
-$ npm install simple-pdf-generator
+$ npm install ros2nodejs
 ```
 
 - In a new file, copy the code from the [example](examples/) you want to try and run it.
